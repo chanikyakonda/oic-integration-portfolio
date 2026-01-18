@@ -1,0 +1,10 @@
+{
+  "personNumber": "1015008",
+  "firstName": "John",
+  "lastName": "Doe",
+  "hireDate": "2026-01-20",
+  "jobCode": "IT_ARCH",
+  "department": "IT",
+  "location": "US-TX",
+  "employmentType": "Employee"
+}
